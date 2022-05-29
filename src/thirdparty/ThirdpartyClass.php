@@ -2,7 +2,7 @@
 
 class ThirdpartyClass {
 
-    public function testRenamed() {
+    public function test() {
 
     }
 
